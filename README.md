@@ -6,7 +6,7 @@ This repo contians projects covering some of the topics studied in the NLP cours
 - Language modeling - Probabilty theory, Markov chain property, Word sequence probabilities, N-gram models, Witten-Bell smoothing
 - Tagging - MLE, Hidden Markov model (HMM), Maximum Entropy Markov Model (MEMM)
 - Word embeddings - Synonyms/Hypernyms, Taxonomies, Dense vector representation, Skip-gram model
-- RNNM, LSTM & Attention
+- RNN, LSTM & Attention
 - BERT Architecture 
 - Chat LLM's
 - Natural Language Generation - Beam search, top-k, top-p, temperature, exposure bias, reward estimation
